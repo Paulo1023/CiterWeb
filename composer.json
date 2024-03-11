@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bensontrent/firestore-php": "^3.0",
+        "google/cloud-storage": "^1.31"
+    }
+}
